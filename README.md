@@ -71,6 +71,8 @@ Sonrasında Steam Girdi Bölümünden USB üzerinden bağlayacağınız RC kuman
 
 ---
 
+Bilgisayarım "Başlat Menusünden -> USB oyun denetleyicilerini kur" kısmına gidiyoruz.
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_7_resim.png)
 
 ---
