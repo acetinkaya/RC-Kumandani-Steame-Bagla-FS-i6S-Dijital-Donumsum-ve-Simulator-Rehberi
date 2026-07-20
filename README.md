@@ -95,8 +95,16 @@ Oyun Kumandaları menusu ekranda çalışan kumandanızın bilgisi gelecektir. B
 
 ---
 
+Steam ayarlarınız tamamlanmıştır ve otomatik olarak sistemin yeniden başlatılması için bir uyarı gelecektir. Bu uyarıya uyarak bilgisayarınızı yeniden başlatın. 
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_11_resim.png)
 
+---
+
+Yeniden başlatma sonrasında masaüstünden Lift-off simgesine tıkladığınızda kumandanız otomatik olarak tanımlanması gercekleştirilmiştir. Oyundan ekran görüntülerini video içinde paylaşacağım, Simülatör kurulum sürecimiz tamamlanmıştır. Hayırlı günler dilerim. 
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_12_resim.png)
+
+---
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandan-Steam-e-Ba-la-FS-i6S-Dijital-D-n-m-ve-Sim-lat-r-Rehberi/blob/main/kapan%C4%B1s-resmi.png)
