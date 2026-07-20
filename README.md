@@ -35,11 +35,12 @@ Steam platformundaki simülatrün ismi "Liftoff®: FPV Drone Racing"
 
 Liftoff®: FPV Drone Racing simülatörü yaklaşık 25 GB'lık bir alana ihityaç duymaktadır. 
 
+Simülatörün kurulumu bittiğinde RC kumandanızı steam platformuna tanıtmanız gerekmektedir. Bu işlemlere hiç başlanmadıysa ve Liftoff® yüklendikten sonra çalıştırıldıysa aşağıdaki gibi bağlantı problemi vermektedir. 
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_1_resim.png)
 
 ---
 
-Simülatörün kurulumu bittiğinde 
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_2_resim.png)
 
