@@ -89,6 +89,8 @@ Bilgisayarımdan -> Başlat Menusünden -> Aygıt Yöneticisine -> İnsan Arabir
 
 ---
 
+Oyun Kumandaları menusu ekranda çalışan kumandanızın bilgisi gelecektir. Bende "FS-i6S emulator" olarak gelmiştir. 
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_10_resim.png)
 
 ---
