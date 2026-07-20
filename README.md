@@ -1,6 +1,6 @@
 # RC Kumandanı Steam'e Bağla: FS-i6S Dijital Dönüşüm ve Simülatör Rehberi
 
-## FS-i6S Kumandanı Steam RC Simülatörlerine Bağlamak
+## FS-i6S Kumandanı Steam RC Simülatörlerine Bağlamak --> YouTube Link: https://www.youtube.com/watch?v=z5b3P_Dx350
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandan-Steam-e-Ba-la-FS-i6S-Dijital-D-n-m-ve-Sim-lat-r-Rehberi/blob/main/giris-resmi.png)
 
